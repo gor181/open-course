@@ -5,3 +5,5 @@ difficulty_level : 2
 time_needed      : 1 hour
 instructors:
   - ramnath@datacamp.com
+collaborators:
+  - yashas@datacamp.com
